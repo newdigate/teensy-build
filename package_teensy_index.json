@@ -25,7 +25,7 @@
           "help": {
             "online": "https://forum.pjrc.com"
           },
-          "url": "https://github.com/newdigate/teensy-build/raw/master/teensyduino.1.8.5.tar.bz2",
+          "url": "https://github.com/newdigate/teensy-build/raw/master/teensy.1.8.5.tar.bz2",
           "toolsDependencies": [
             {
               "packager": "arduino",
