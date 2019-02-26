@@ -27,11 +27,6 @@
           },
           "url": "https://github.com/newdigate/teensy-build/raw/master/teensy.1.8.5.tar.bz2",
           "toolsDependencies": [
-            {
-              "name": "arm-none-eabi-gcc",
-              "packager": "arduino",
-              "version": "5.4.1-2016q3"
-            }
           ],
           "size": "25066286"
         }
