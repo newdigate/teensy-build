@@ -25,7 +25,7 @@
           "help": {
             "online": "https://forum.pjrc.com"
           },
-          "url": "https://drive.google.com/uc?id=19a_Q_xlE9Rz8lX8mAzXxBwO7_OK-B89w&export=download",
+          "url": "https://github.com/newdigate/teensy-build/raw/master/teensy.1.8.5.tar.bz2",
           "toolsDependencies": [
           ],
           "size": "75013112"
