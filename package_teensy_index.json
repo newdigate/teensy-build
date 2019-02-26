@@ -30,7 +30,7 @@
             {
               "name": "arm-none-eabi-gcc",
               "packager": "arduino",
-              "version": "5-2016-q2-update"
+              "version": "5.4.1-2016q3"
             }
           ],
           "size": "25066286"
