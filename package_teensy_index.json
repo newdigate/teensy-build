@@ -1,0 +1,36 @@
+{
+  "packages": [
+    {
+      "websiteURL": "https://www.pjrc.com/teensy/",
+      "tools": [],
+      "name": "Teensyduino",
+      "email": "",
+      "help": {
+        "online": "https://forum.pjrc.com/"
+      },
+      "maintainer": "Teensy community",
+      "platforms": [
+        {
+          "boards": [
+            {
+              "name": "Teensy 3.6"
+            }
+          ],
+          "architecture": "avr",
+          "name": "Teensy",
+          "category": "Teensy",
+          "version": "1.8.5",
+          "archiveFileName": "teensyduino.1.8.5.tar.bz2",
+          "checksum": "SHA-256:53237c5a9dc2918df681a6c14c9f5a50f8593361e835c37c5e384d0deb2ff849",
+          "help": {
+            "online": "https://forum.pjrc.com"
+          },
+          "url": "https://github.com/newdigate/teensy-build/raw/master/teensyduino.1.8.5.tar.bz2",
+          "toolsDependencies": [],
+          "size": "25060328"
+        }
+        
+      ]
+    }
+  ]
+}
