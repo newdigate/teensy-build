@@ -26,7 +26,18 @@
             "online": "https://forum.pjrc.com"
           },
           "url": "https://github.com/newdigate/teensy-build/raw/master/teensyduino.1.8.5.tar.bz2",
-          "toolsDependencies": [],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ],
           "size": "25060328"
         }
         
