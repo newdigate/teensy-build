@@ -21,7 +21,7 @@
           "category": "Teensy",
           "version": "1.8.5",
           "archiveFileName": "teensy.1.8.5.tar.bz2",
-          "checksum": "SHA-256:048620ce17ff80c8463dcdfd3bad6810f2bd5b6930dbf87554224d2f061ce092",
+          "checksum": "SHA-256:b56bfa5ba0dfbfb4a27ed982f2255c7c1bd534f63353af4054963264764873ad",
           "help": {
             "online": "https://forum.pjrc.com"
           },
@@ -33,7 +33,7 @@
               "version": "4.8.3-2014q1"
             }
           ],
-          "size": "25059055"
+          "size": "25062518"
         }
         
       ]
