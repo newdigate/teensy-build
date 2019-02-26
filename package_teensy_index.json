@@ -28,14 +28,9 @@
           "url": "https://github.com/newdigate/teensy-build/raw/master/teensy.1.8.5.tar.bz2",
           "toolsDependencies": [
             {
+              "name": "arm-none-eabi-gcc",
               "packager": "arduino",
-              "name": "avr-gcc",
-              "version": "5.4.0-atmel3.6.1-arduino2"
-            },
-            {
-              "packager": "arduino",
-              "name": "avrdude",
-              "version": "6.3.0-arduino14"
+              "version": "4.8.3-2014q1"
             }
           ],
           "size": "25060434"
