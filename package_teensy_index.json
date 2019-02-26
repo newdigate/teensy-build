@@ -21,7 +21,7 @@
           "category": "Teensy",
           "version": "1.8.5",
           "archiveFileName": "teensy.1.8.5.tar.bz2",
-          "checksum": "SHA-256:e0b0ed18024f3f5cd6ec49465ca1b30998845075b2ab58681ce9d782cba0d86e",
+          "checksum": "SHA-256:a8b9592ef68b87655dc61c2bbc3db7577160a215fa5c09abb586d21e4d4690f2",
           "help": {
             "online": "https://forum.pjrc.com"
           },
@@ -38,7 +38,7 @@
               "version": "6.3.0-arduino14"
             }
           ],
-          "size": "25067564"
+          "size": "25060434"
         }
         
       ]
