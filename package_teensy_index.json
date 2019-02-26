@@ -21,14 +21,14 @@
           "category": "Teensy",
           "version": "1.8.5",
           "archiveFileName": "teensy.1.8.5.tar.bz2",
-          "checksum": "SHA-256:a1ce24a4a4d45f33cd98f27560ea79714f1243760a9ddace9732d25994d29c11",
+          "checksum": "SHA-256:5b04862b12ff0710b48414bd405ef80583a8394ea0581e4359063f7f97e2d88d",
           "help": {
             "online": "https://forum.pjrc.com"
           },
-          "url": "https://github.com/newdigate/teensy-build/raw/master/teensy.1.8.5.tar.bz2",
+          "url": "https://drive.google.com/uc?id=19a_Q_xlE9Rz8lX8mAzXxBwO7_OK-B89w&export=download",
           "toolsDependencies": [
           ],
-          "size": "25066286"
+          "size": "75013112"
         }
         
       ]
