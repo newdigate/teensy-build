@@ -17,7 +17,7 @@
             }
           ],
           "architecture": "avr",
-          "name": "Teensy",
+          "name": "teensy",
           "category": "Teensy",
           "version": "1.8.5",
           "archiveFileName": "teensyduino.1.8.5.tar.bz2",
