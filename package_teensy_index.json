@@ -11,11 +11,7 @@
       "maintainer": "Teensy community",
       "platforms": [
         {
-          "boards": [
-            {
-              "name": "Teensy 3.6"
-            }
-          ],
+          "boards": [{ "name": "Teensy 3.6" } ],
           "architecture": "samd",
           "name": "teensy",
           "category": "Teensy",
@@ -44,12 +40,10 @@
               "archiveFileName": "gccarmnoneeabi542016q220160622linuxtar.bz2",
               "size": "92600244",
               "checksum": "SHA-256:7648b7f549b37191da0b0be53bae791b652f82ac3cb4e7877f85075aaf32141f"
-            },
+            }
           ]
-        },
-        
-      ],
-      
+        }
+      ]
     }
   ]
 }
