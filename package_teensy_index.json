@@ -21,7 +21,7 @@
           "category": "Teensy",
           "version": "1.8.5",
           "archiveFileName": "teensy.1.8.5.tar.bz2",
-          "checksum": "SHA-256:49916498ca13ed00efe6721211f4eb2c8bbcbbdc8e722afa76a7de60ca9e0f9b",
+          "checksum": "SHA-256:f571b668555acfe3eba83881f54ce1e071055e25fbab9958b6960fc570e67d91",
           "help": {
             "online": "https://forum.pjrc.com"
           },
@@ -29,7 +29,7 @@
           "toolsDependencies": [
              { "packager": "teensy", "name": "gcc-arm-none-eabi", "version": "5.4.1-2016q2" },
           ],
-          "size": "25062628"
+          "size": "25065618"
         }
       ],
       
