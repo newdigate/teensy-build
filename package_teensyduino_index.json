@@ -56,7 +56,7 @@
             "help": {
               "online": "https://forum.pjrc.com"
             },
-            "url": "https://github.com/newdigate/teensy-build/raw/master/teensyduino.1.8.5.tar.bz2",
+            "url": "https://github.com/newdigate/teensy-build/raw/master/teensyduino1.8.5.tar.bz2",
             "toolsDependencies": [
                { "packager": "teensyduino", "name": "gcc-arm-none-eabi", "version": "5.4.1-2016q2" }
             ],
