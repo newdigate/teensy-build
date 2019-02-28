@@ -25,8 +25,8 @@
                 "host": "i386-apple-darwin11",
                 "url": "https://developer.arm.com/-/media/Files/downloads/gnu-rm/5_4-2016q2/gccarmnoneeabi542016q220160622mactar.bz2",
                 "archiveFileName": "gccarmnoneeabi542016q220160622mactar.bz2",
-                "size": "",
-                "checksum": "SHA-256:"
+                "size": "96963810",
+                "checksum": "SHA-256:e175a0eb7ee312013d9078a5031a14bf14dff82c7e697549f04b22e6084264c8"
               },           
               {
                 "host": "i686-mingw32",
