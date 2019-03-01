@@ -60,7 +60,7 @@
             "toolsDependencies": [
                { "packager": "teensyduino", "name": "gcc-arm-none-eabi", "version": "5.4.1-2016q2" }
             ],
-            "size": "25065618"
+            "size": "25057312"
           }
         ]
       }
