@@ -46,9 +46,9 @@ recipe.objcopy.eep.pattern="{compiler.path}{build.command.objcopy}" {compiler.ob
 recipe.objcopy.hex.pattern="{compiler.path}{build.command.objcopy}" {compiler.elf2hex.flags} "{build.path}/{build.project_name}.elf" "{build.path}/{build.project_name}.hex"
 
 ## Post Build - inform Teensy Loader of new file
-recipe.hooks.postbuild.1.pattern="{compiler.path}stdout_redirect" "{build.path}/{build.project_name}.lst" "{compiler.path}{build.command.objdump}" -d -S -C "{build.path}/{build.project_name}.elf"
-recipe.hooks.postbuild.2.pattern="{compiler.path}stdout_redirect" "{build.path}/{build.project_name}.sym" "{compiler.path}{build.command.objdump}" -t -C "{build.path}/{build.project_name}.elf"
-recipe.hooks.postbuild.3.pattern="{compiler.path}teensy_post_compile" "-file={build.project_name}" "-path={build.path}" "-tools={compiler.path}" "-board={build.board}"
+#recipe.hooks.postbuild.1.pattern="{compiler.path}stdout_redirect" "{build.path}/{build.project_name}.lst" "{compiler.path}{build.command.objdump}" -d -S -C "{build.path}/{build.project_name}.elf"
+#recipe.hooks.postbuild.2.pattern="{compiler.path}stdout_redirect" "{build.path}/{build.project_name}.sym" "{compiler.path}{build.command.objdump}" -t -C "{build.path}/{build.project_name}.elf"
+#recipe.hooks.postbuild.3.pattern="{compiler.path}teensy_post_compile" "-file={build.project_name}" "-path={build.path}" "-tools={compiler.path}" "-board={build.board}"
 
 ## Compute size
 recipe.size.pattern="{compiler.path}{build.command.size}" -A "{build.path}/{build.project_name}.elf"

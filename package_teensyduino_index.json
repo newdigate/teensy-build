@@ -52,7 +52,7 @@
             "category": "Teensy",
             "version": "1.8.5",
             "archiveFileName": "teensyduino.1.8.5.tar.bz2",
-            "checksum": "SHA-256:e2524bdb0bf72656a6e83c9f53df421941e799e307514392c40e2d3c41ed1cfd",
+            "checksum": "SHA-256:d435d0eb3dc57cc55b1d0b95985ed27b3e9c473e0f21b2187e62a656bea32915",
             "help": {
               "online": "https://forum.pjrc.com"
             },
@@ -60,7 +60,7 @@
             "toolsDependencies": [
                { "packager": "teensyduino", "name": "gcc-arm-none-eabi", "version": "5.4.1-2016q2" }
             ],
-            "size": "25052833"
+            "size": "25056892"
           }
         ]
       }
